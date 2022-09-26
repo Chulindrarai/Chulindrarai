@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 -->
 ![Chulindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chulindrarai&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chulindrarai&layout=compact)](https://github.com/Chulindrarai/github-readme-stats)
-<a href="https://github.com/Chulindrarai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chulindrarai&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Chulindrarai/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chulindrarai&repo=convoychat" />
-</a>
+
